@@ -83,5 +83,6 @@ for (let i = 0; i < AMOUNT_OF_PETS; i++) {
 
   result.push(pet);
 }
+module.exports = result
 
 console.log(JSON.stringify(result, null, 2));

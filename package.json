@@ -45,7 +45,10 @@
     "react-addons-test-utils": "^15.3.0"
   },
   "dependencies": {
+    "bundle": "^0.2.3",
+    "fetch-mock": "^5.5.0",
     "react": "^15.3.0",
-    "react-dom": "^15.3.0"
+    "react-dom": "^15.3.0",
+    "sinon": "^1.17.6"
   }
 }
